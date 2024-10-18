@@ -32,7 +32,7 @@ When doing risk analysis on AI initiatives, consider at least the following:
 - Is the right expertise available (e.g. data scientists)?
 - Is it allowed to use the data for the purpose - especially if it is personal data collected for a different purpose?
 - Can unwanted behaviour be sufficiently contained by mitigations (see Controls to limit unwanted behaviour)?
-- See Risk management under [SECPROGRAM](/goto/secprogram/) for security-specific risk analysis, also involving privacy.
+- See Risk management under [SECPROGRAM](/goto/secprogram/) for security-specific risk analysis, also involving privacy. Naiman.
 
 In general risk management it may help to keep in mind the following particularities of AI:
 1. Inductive instead of deductive, meaning that being wrong is part of the game for machine learning models, which can lead to harm
