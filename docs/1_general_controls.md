@@ -20,7 +20,7 @@ Purpose: 1) reduces probability of AI initiatives being overlooked for proper go
 This includes assigning responsibilities, e.g. model accountability, data accountability, and risk governance.  
 This governance challenge may seem daunting because of all the new things to take care of, but there are plenty of existing controls in organizations that can be extended to include AI (e.g. policies, risk analysis, impact analysis, inventory of used services etc.).
 
-Technically one could argue that this control is out of scope for cyber security, but it initiates action to get in control of AI security.
+Technically one could argue that this control is out of scope for cyber security, but it initiates action to get in control of AI security. Test content.
 
 When doing risk analysis on AI initiatives, consider at least the following:
 - Note that an AI program is not just about risk TO AI, such as security risks - it is also about risks BY AI, such as threats to fairness, safety, etc.
